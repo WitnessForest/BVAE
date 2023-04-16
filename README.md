@@ -16,14 +16,14 @@
 
 1. python run.py
 
-2.
-### On the JD dataset
+2.Or:
+#### On the JD dataset
 
 - python train_2.py --dataset JD --batch_size 500 --user_num 10690 --item_num 13465 --behavior_num 2 --task_num 2 --hiddenDim 100 --lr_rate 0.001
 - python train_3.py --dataset JD --batch_size 500 --user_num 10690 --item_num 13465 --behavior_num 3 --task_num 3 --hiddenDim 100 --lr_rate 0.001
 - python train_4.py --dataset JD --batch_size 500 --user_num 10690 --item_num 13465 --behavior_num 4 --task_num 4 --hiddenDim 100 --lr_rate 0.001
 
-### On the UB dataset
+#### On the UB dataset
 - python train_2.py --dataset UB --batch_size 500 --user_num 20443 --item_num 30947 --behavior_num 2 --task_num 2 --hiddenDim 100 --lr_rate 0.001
 - python train_3.py --dataset UB --batch_size 500 --user_num 20443 --item_num 30947 --behavior_num 3 --task_num 3 --hiddenDim 100 --lr_rate 0.001
 - python train_4.py --dataset UB --batch_size 500 --user_num 20443 --item_num 30947 --behavior_num 4 --task_num 4 --hiddenDim 100 --lr_rate 0.001
