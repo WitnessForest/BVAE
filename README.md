@@ -2,7 +2,8 @@
 
 ## Contents
 - Dataset
-- Code 
+- Codes
+- Log 
 
 ## Environment
 
@@ -15,9 +16,7 @@
 
 - python run.py
 
-or
-
-### On the JD dataset
+### on the JD dataset
 
 - python train_2.py --dataset JD --batch_size 500 --user_num 10690 --item_num 13465 --behavior_num 2 --task_num 2 --hiddenDim 100 --lr_rate 0.001
 - python train_3.py --dataset JD --batch_size 500 --user_num 10690 --item_num 13465 --behavior_num 3 --task_num 3 --hiddenDim 100 --lr_rate 0.001
