@@ -14,9 +14,10 @@
 
 ## How to Run the Codes
 
-- python run.py
+1. python run.py
 
-### on the JD dataset
+2.
+### On the JD dataset
 
 - python train_2.py --dataset JD --batch_size 500 --user_num 10690 --item_num 13465 --behavior_num 2 --task_num 2 --hiddenDim 100 --lr_rate 0.001
 - python train_3.py --dataset JD --batch_size 500 --user_num 10690 --item_num 13465 --behavior_num 3 --task_num 3 --hiddenDim 100 --lr_rate 0.001
