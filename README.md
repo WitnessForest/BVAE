@@ -1,5 +1,4 @@
-# BVAE
-## Behavior-aware Variational Autoencoder
+# Behavior-aware Variational Autoencoder (BVAE)
 
 ## Contents
 - Dataset
@@ -16,7 +15,7 @@
 
 - python run.py
 
-## Or
+or
 
 ### On the JD dataset
 
