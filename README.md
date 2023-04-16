@@ -16,7 +16,7 @@
 
 1. python run.py
 
-2.Or:
+2. Or:
 #### On the JD dataset
 
 - python train_2.py --dataset JD --batch_size 500 --user_num 10690 --item_num 13465 --behavior_num 2 --task_num 2 --hiddenDim 100 --lr_rate 0.001
