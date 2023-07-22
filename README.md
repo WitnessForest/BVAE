@@ -27,3 +27,7 @@
 - python train_2.py --dataset UB --batch_size 500 --user_num 20443 --item_num 30947 --behavior_num 2 --task_num 2 --hiddenDim 100 --lr_rate 0.001
 - python train_3.py --dataset UB --batch_size 500 --user_num 20443 --item_num 30947 --behavior_num 3 --task_num 3 --hiddenDim 100 --lr_rate 0.001
 - python train_4.py --dataset UB --batch_size 500 --user_num 20443 --item_num 30947 --behavior_num 4 --task_num 4 --hiddenDim 100 --lr_rate 0.001
+
+## ACM Reference Format:
+Qianzhen Rao, Yang Liu, Weike Pan, and Ming Zhong. 2023. BVAE: Behavior-aware Variational Autoencoder for Multi-Behavior
+Multi-Task Recommendation. In Seventeenth ACM Conference on Recommender Systems (RecSys ’23)
