@@ -31,3 +31,6 @@
 ## ACM Reference Format:
 Qianzhen Rao, Yang Liu, Weike Pan, and Ming Zhong. 2023. BVAE: Behavior-aware Variational Autoencoder for Multi-Behavior
 Multi-Task Recommendation. In Seventeenth ACM Conference on Recommender Systems (RecSys ’23)
+
+## Note
+We made an error in the data statistics table in our paper: the total number of items in the UB dataset is 30,947, and the 30,743 written in the paper is the number of items in the training set. Similarly, the total number of purchase interactions in the UB dataset should be 133,708. Sincerely apologize.
